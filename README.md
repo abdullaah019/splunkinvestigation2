@@ -21,7 +21,7 @@ Lab) Splunk Investigation 2 Solution<br />
 
 
 - <b>Splunk Investigation 2 Completion Certification </b>
-  - [Splunk Investigation 1]([http://www.keepandshare.com/doc8/view.php?id=30596&da=y](https://elearning.securityblue.team/public/lab-certificate/6c8a44cc-6346-425c-896d-a82b6d4d063b))
+  - [SCertification of completion1]([http://www.keepandshare.com/doc8/view.php?id=30596&da=y](https://elearning.securityblue.team/public/lab-certificate/6c8a44cc-6346-425c-896d-a82b6d4d063b))
  
 <b>Question 1 - What is the name of the web vulnerability scanner that is being used?</b>
 
